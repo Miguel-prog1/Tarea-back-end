@@ -1,0 +1,20 @@
+{
+  "name": "tarea-back-end",
+  "version": "1.0.0",
+  "description": "Tarea de back",
+  "homepage": "https://github.com/Miguel-prog1/Tarea-back-end#readme",
+  "bugs": {
+    "url": "https://github.com/Miguel-prog1/Tarea-back-end/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miguel-prog1/Tarea-back-end.git"
+  },
+  "license": "ISC",
+  "author": "Miguel Diaz",
+  "type": "commonjs",
+  "main": "Ejercicio1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
