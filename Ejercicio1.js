@@ -250,7 +250,12 @@ cambiosAlPersonaje(mipersonaje, (mipersonaje, newnombre) => {
 },
 () => {
 
-})*/
+})
+Ignorar esta parte porque era una idea mal encanmidad, que se me surgio en el momento*/
+
+
+
+
 function listaDeAlumnos(array, nombre, f) {
     f(array, nombre)
 }
